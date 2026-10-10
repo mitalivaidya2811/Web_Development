@@ -1,0 +1,61 @@
+# Boiler plate = boiler plate ek aisa code hota hai jo necessary code hota hai kisi bhi code ko run karne ke liye use hota hai or hum us code ko baar baar use karte hai.
+main code html structuring-index.html
+shift+1+enter=boiler plate open
+
+                    # Tags= container jo apne andar elements ko rakhte hai aur har ek tag ko alag alag functionality dete hai.
+                    for ex-<h1>....<h2>
+                    Types of tags:
+                            1: Container tag: <h1>-opening </h1> closing(these are two types)
+                            2; empty tag -only opening tag  < >
+                    Heading Tag= there are six types of heading tag
+                            <h1>mitali</h1>
+                            h2
+                            h3
+                            h4
+                            h5
+                            h6
+                    Paragragh Tag = <p>-Paragragh tag
+                                    <hr>=horizontzl row draw
+                                    <br>=row break
+                                    =(bold Paragragh)
+                                    =itelic...
+
+                                    best peak website-1.unplash
+                                    <img src> = image use 
+                    image ko copy karne ke liye sabse pehle humme brouser mein jake image ke address ko copy karna hota hai 
+                    aur phir img likhke enter karne ke baad image ke address ko paste karna hota hai.
+                What is comment?
+                comment code ki readibility ko badhane ke liye use kiya jata hai or compiler commemt ko read toh karta hai lekin usse 
+                chala nahi pata.
+
+                # Attributes-key = "Value"(yeh html tag ke extra features ko define karta hai or yeh batata hai ki konsa tag ka konsa
+                feature kisi bhi tag ko koi extra features dena chahta ho toh humme kon tag ka use karna padega)
+                #formatting tag = text ko format dene mein help karta hai.
+                container tag = opening tag and closing tag.
+                *attributes humesha opening tag mein use hota hai/Key="value"
+                ye extra features provide kar ta hai.
+                suggestion ctrl+backspace==
+                #unorder list mein type attribute kaam nai akrta hai.
+                ul me type ki jagah style use karte hai 
+                
+                NESTED = JO JISKE ANDAR RAHEGA VO USKE NEECHE JUST BAGAL MEIN HOGA .
+                <u> </u>: se koi bhi line under line ho jati hai 
+                <a href=" "></a>: yeh kisi bhi website ki dikhane ke liye use hota hai.
+                ex: <a href="https://www.google.com/">google</a>
+                <b>BOLD<b/>:yeh wala tag kisi bhi word ko bold dikhane ke liye use hota hai.
+                <i>italic</i>: yeh wala tag kisi bhi word ko itali dikhane ke liye use hota hai.
+                <big> </big>:yeh wala tag kisi bhi line ko bada dikhane ke liye use hota hai.
+                <small> </small>:yeh wala tag kisi bhi line ko chota dikhane ke liye use hota hai.
+
+
+table-table tag is a container tag in html jo humme data ko row aur column mein likhne ke liye features
+provide kaarta hai.
+row ke liye hum tr tag use karte hai.
+for column we use td tag.
+agar humme column banana ho toh humme row banana padega.
+when we create a new row toh bydefault vo pehle row ke niche aayega.
+agar humme brouser mein kuch bhi dikhana toh humme code body tag mein likhna padega.
+when we commentoff any code then compiler only reads the code but not execute it.
+name, employ id ,phone number, email.
+colspan-jab bhi kisi bhi column ko humme uske just next wale column ka space lena hoga toh humme colspan lene hoga .colspan se hum next wala column ka space lelete hai.
+rowspan-rowspan attribute se hum row kw just nuche wale row ka space ko hum mergekarte hai.

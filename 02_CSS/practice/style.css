@@ -1,0 +1,22 @@
+*{
+    color: blue;
+}
+h1{
+    color: rgb(255 ,0, 0 );
+}
+p{
+    color:aqua;
+}
+button{
+    color: black;
+     background-color:#00ff00;
+}
+body{
+    background-color: black;
+}
+#heading1{
+    color: blue;
+}
+.myClass{
+    color: red;
+}

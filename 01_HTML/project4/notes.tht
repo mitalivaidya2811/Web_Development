@@ -59,3 +59,9 @@ when we commentoff any code then compiler only reads the code but not execute it
 name, employ id ,phone number, email.
 colspan-jab bhi kisi bhi column ko humme uske just next wale column ka space lena hoga toh humme colspan lene hoga .colspan se hum next wala column ka space lelete hai.
 rowspan-rowspan attribute se hum row kw just nuche wale row ka space ko hum mergekarte hai.
+position in css- agar humne kisi bhi elements  ko position assume kiya toh vo element top layer mein aa jayega then humne agar usko move karvaya to apne just after ko move kiye bina space lelega.
+hum position absolute tab use karte hai jab hume kisi single element ko move karvana ho lekin uss element ke karan uske next element ko koi effect na ho.
+hm position absolute mein - top,left , right, bottom, properties use karte hai.
+what is brouser?
+
+

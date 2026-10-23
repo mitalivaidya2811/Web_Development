@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    background-image: url(beach_photo.jpg);
+    background-position: center;
+    background-size:cover;
+}
+nav{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px ;
+}
+nav h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    cursor: default;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 30px;
+    cursor: pointer;
+    font-size: large;
+}
+li:hover{
+    color: white;
+}
+#section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px;
+
+}
+#middle1 h1{
+    color : black;
+    font-size:80px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: default;
+}
+p{
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    margin-top: 20px;
+    font-weight: 300;
+    cursor: default;
+}
+button{
+    width: 150px;
+    height:40px;
+    border-radius: 50px;
+    border: 2px solid black;
+    color:black;
+    background-color: #b6ad9e;
+    font-size: 20px;
+    margin-top:30px;
+    margin-left: 20px;
+}
+button:hover{
+    background-color: #9ccddc;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+}
+img{
+    background-position: center;
+    background-size:cover; 
+    height: 500px;
+    width: 500px;
+    border-radius: 100%; 
+    margin-top: 40px;
+}
